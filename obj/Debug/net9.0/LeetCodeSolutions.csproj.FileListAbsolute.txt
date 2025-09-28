@@ -1,0 +1,15 @@
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.AssemblyInfoInputs.cache
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.AssemblyInfo.cs
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.csproj.CoreCompileInputs.cache
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.sourcelink.json
+c:\Leet\LeetCodeSolutions\leet-easy\bin\Debug\net9.0\LeetCodeSolutions.exe
+c:\Leet\LeetCodeSolutions\leet-easy\bin\Debug\net9.0\LeetCodeSolutions.deps.json
+c:\Leet\LeetCodeSolutions\leet-easy\bin\Debug\net9.0\LeetCodeSolutions.runtimeconfig.json
+c:\Leet\LeetCodeSolutions\leet-easy\bin\Debug\net9.0\LeetCodeSolutions.dll
+c:\Leet\LeetCodeSolutions\leet-easy\bin\Debug\net9.0\LeetCodeSolutions.pdb
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.dll
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\refint\LeetCodeSolutions.dll
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.pdb
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\LeetCodeSolutions.genruntimeconfig.cache
+c:\Leet\LeetCodeSolutions\leet-easy\obj\Debug\net9.0\ref\LeetCodeSolutions.dll
